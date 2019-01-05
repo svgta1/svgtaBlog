@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.4",
+        "phpmailer/phpmailer": "^6.0",
+	"soundasleep/html2text": "~0.5",
+        "josegonzalez/dotenv": "dev-master"
+    }
+}
